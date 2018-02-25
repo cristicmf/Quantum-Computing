@@ -1,0 +1,1 @@
+- [quantamagazine](https://www.quantamagazine.org/job-one-for-quantum-computers-boost-artificial-intelligence-20180129/#newsletter)
