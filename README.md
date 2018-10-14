@@ -18,5 +18,6 @@
 
 - [From Classical to Quantum Shannon
 Theory](https://arxiv.org/pdf/1106.1445.pdf)
+- [CLUSTER-STATE QUANTUM COMPUTATION](https://arxiv.org/pdf/quant-ph/0504097.pdf)
 
 
