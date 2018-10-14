@@ -1,6 +1,6 @@
 # Quantum Computation
 
-### Course
+### Lecture
 - [Course Information for Physics 219Computer Science 219 Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229/)
 - [MIT](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/courseware/welcome/Introduction_to_8_370_3x/?child=first)
 - [caltech](http://www.theory.caltech.edu/~preskill/ph229/#lecture)
