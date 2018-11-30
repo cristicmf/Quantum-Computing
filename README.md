@@ -1,6 +1,6 @@
 # Quantum 
 
-## 应用方向
+## 1. 应用方向
 ![image](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_338248_CIOsGuideToQuantumComputing_Graphics.jpg)
 - [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 - [The CIO’s Guide to Quantum Computing](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 公司
+## 2. 公司
 - [Cambridge QC](https://cambridgequantum.com/)
 - [D-Wave Systems](https://www.dwavesys.com/)
 - [ID Quantique ](https://www.idquantique.com/)
@@ -32,17 +32,17 @@
 
 ---
 
-## 学习&&课程
+## 3. 学习&&课程
 - [Course Information for Physics 219Computer Science 219 Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229/)
 - [MIT](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/courseware/welcome/Introduction_to_8_370_3x/?child=first)
 - [caltech](http://www.theory.caltech.edu/~preskill/ph229/#lecture)
 
-#### 入门书籍
+#### 3.1 入门书籍
 [更多资料学习](https://github.com/cristicmf/Q-learn/tree/master/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97)
 
 - 入门书籍：[量子计算和量子信息Nielsen](https://github.com/cristicmf/Q-learn/blob/master/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97/17579%20%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%92%8C%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%20%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E9%83%A8%E5%88%86%20Nielsen%E7%AD%89%E8%91%97.pdf) 
 
-#### 学习建议和资料
+#### 3.2 学习建议和资料
 - [shor](http://www-math.mit.edu/~shor/)
 - [learn advice](http://www.mit.edu/~aram/advice/quantum.html)
 - [A blueprint for demonstrating quantum supremacy with superconducting qubits](https://arxiv.org/abs/1709.06678)
@@ -53,26 +53,26 @@ Theory](https://arxiv.org/pdf/1106.1445.pdf)
 - [CLUSTER-STATE QUANTUM COMPUTATION](https://arxiv.org/pdf/quant-ph/0504097.pdf)
 
 
-#### nature
+#### 3.3 nature
 - [Tuning quantum channels to maximize polarization entanglement for telecom photon pairs](https://www.nature.com/articles/s41534-018-0107-x)
 - [Unveiling noiseless clusters in complex quantum networks](https://www.nature.com/articles/s41534-018-0108-9)
 - [Commercialize quantum technologies in five years](https://www.nature.com/news/commercialize-quantum-technologies-in-five-years-1.21583)
 
 
 ---
-## 有意思的方向
+## 4. 有意思的方向
 - AI quantum Computing
 - 盲量子计算
 
 ---
-## 量子计算机的发展史
+## 5. 咕噜咕噜
+###### 量子计算机的发展史
 - In the 1970’s Fredkin, Toffoli, Bennett and others began to look into the possibility of reversible computation to avoid power loss.Since quantum mechanics is reversible, a possible link between computing and quantum devices was suggestedSome early work on quantum computation occurred in the 80’s1982 Benioff: Quantum computers are universal.
 
 - 1982 Feynman: Quantum computer could simulate other quantum systems.1993 Bernstein, Vazirani and Yao: Quantum systems are more powerful than classical computers.
 
----
 
-## 关键名词解释
+###### 关键名词解释
 量子的叠加态
 
 量子的神秘之处首先体现在它的“状态”。在宏观世界里，任何一个物体在某一时刻有着确定的状态和确定的位置。但在微观世界里，量子却可以同时处于多种状态。叠加态是“0”态和“1”态的任意线性叠加，它以一定的概率同时存在于“0”态和“1”态之间。量子不像半导体只能记录0与1，可以同时表示多种状态，如果把半导体比成单一乐器，量子计算机就像交响乐团，一次运算可以处理多种不同状况。
