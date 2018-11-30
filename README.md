@@ -1,15 +1,12 @@
-# Quantum Computation
+# Quantum 
 
-### 应用方向
-
+## 应用方向
+![image](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_338248_CIOsGuideToQuantumComputing_Graphics.jpg)
 - [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 - [The CIO’s Guide to Quantum Computing](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/)
-
-![image](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_338248_CIOsGuideToQuantumComputing_Graphics.jpg)
-
 - [Commercialize quantum technologies in five years](https://www.nature.com/news/commercialize-quantum-technologies-in-five-years-1.21583)
 
-### 公司
+## 公司
 - [Cambridge QC](https://cambridgequantum.com/)
 - [D-Wave Systems](https://www.dwavesys.com/)
 - [ID Quantique ](https://www.idquantique.com/)
@@ -32,7 +29,7 @@ ID Quantique 于2001 年成立于瑞士日内瓦，主攻基于传统和量子�
 ```
 
 
-### 学习&&课程
+## 学习&&课程
 - [Course Information for Physics 219Computer Science 219 Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229/)
 - [MIT](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/courseware/welcome/Introduction_to_8_370_3x/?child=first)
 - [caltech](http://www.theory.caltech.edu/~preskill/ph229/#lecture)
@@ -63,13 +60,13 @@ Theory](https://arxiv.org/pdf/1106.1445.pdf)
 - [CLUSTER-STATE QUANTUM COMPUTATION](https://arxiv.org/pdf/quant-ph/0504097.pdf)
 
 
-### 量子计算机的发展史
+## 量子计算机的发展史
 - In the 1970’s Fredkin, Toffoli, Bennett and others began to look into the possibility of reversible computation to avoid power loss.Since quantum mechanics is reversible, a possible link between computing and quantum devices was suggestedSome early work on quantum computation occurred in the 80’s1982 Benioff: Quantum computers are universal.
 
 - 1982 Feynman: Quantum computer could simulate other quantum systems.1993 Bernstein, Vazirani and Yao: Quantum systems are more powerful than classical computers.
 
 
-### 关键名词解释
+## 关键名词解释
 量子的叠加态
 
 量子的神秘之处首先体现在它的“状态”。在宏观世界里，任何一个物体在某一时刻有着确定的状态和确定的位置。但在微观世界里，量子却可以同时处于多种状态。叠加态是“0”态和“1”态的任意线性叠加，它以一定的概率同时存在于“0”态和“1”态之间。量子不像半导体只能记录0与1，可以同时表示多种状态，如果把半导体比成单一乐器，量子计算机就像交响乐团，一次运算可以处理多种不同状况。
