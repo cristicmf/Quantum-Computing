@@ -63,6 +63,7 @@ Theory](https://arxiv.org/pdf/1106.1445.pdf)
 ## 4. 有意思的方向
 - AI quantum Computing
 - 盲量子计算
+- 量子模拟器，量子语言
 
 ---
 ## 5. 咕噜咕噜
