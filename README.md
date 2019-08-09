@@ -1,4 +1,4 @@
-# Quantum 
+# Quantum  Resources
 
 ## 1. 应用方向
 ![image](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_338248_CIOsGuideToQuantumComputing_Graphics.jpg)
