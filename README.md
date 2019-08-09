@@ -1,14 +1,14 @@
-# Quantum  Resources
+## Quantum  Resources
 
-## 1. 应用方向
+### 1. 应用方向
 ![image](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_338248_CIOsGuideToQuantumComputing_Graphics.jpg)
 - [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 - [The CIO’s Guide to Quantum Computing](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/)
 - [Commercialize quantum technologies in five years](https://www.nature.com/news/commercialize-quantum-technologies-in-five-years-1.21583)
 
----
 
-## 2. 公司
+
+### 2. 公司
 - [Cambridge QC](https://cambridgequantum.com/)
 - [D-Wave Systems](https://www.dwavesys.com/)
 - [ID Quantique ](https://www.idquantique.com/)
@@ -32,7 +32,7 @@
 
 ---
 
-## 3. 学习&&课程
+### 3. 学习&&课程
 - [Course Information for Physics 219Computer Science 219 Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229/)
 - [MIT](https://courses.edx.org/courses/course-v1:MITx+8.370.3x+1T2018/courseware/welcome/Introduction_to_8_370_3x/?child=first)
 - [caltech](http://www.theory.caltech.edu/~preskill/ph229/#lecture)
@@ -66,7 +66,7 @@ Theory](https://arxiv.org/pdf/1106.1445.pdf)
 - 量子模拟器，量子语言
 
 ---
-## 5. 咕噜咕噜
+### 5. 咕噜咕噜
 ###### 量子计算机的发展史
 - In the 1970’s Fredkin, Toffoli, Bennett and others began to look into the possibility of reversible computation to avoid power loss.Since quantum mechanics is reversible, a possible link between computing and quantum devices was suggestedSome early work on quantum computation occurred in the 80’s1982 Benioff: Quantum computers are universal.
 
